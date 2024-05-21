@@ -5,7 +5,7 @@ module.exports = {
     description: "Random Anime Image",
     role: "user",
     cooldown: 18,
-    credits: "Neku",
+    credits: "Alex Jhon Ponce",
     execute(api, event, args, commands) {
       /*  if (args.length === 0) {
             api.sendMessage("Please provide a clan tag.", event.threadID, event.messageID);
