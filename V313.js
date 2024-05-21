@@ -5,7 +5,7 @@ Im a Legit PullStack Developer becoz i pull everything from net - hzhz
 
 const PREFIX = "$"; 
 //paitan
-const port = process.env.PORT || 21850;
+const port = process.env.PORT || 10000;
 //para sa bot-hosting
 //automatic Restart 🙄
 setInterval(() => {
